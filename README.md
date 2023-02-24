@@ -1,5 +1,8 @@
 ### Hi there 👋
+Find my resume below
 
+[Resume (fr).pdf](https://github.com/DRJulien/DRJulien/files/10829296/CV.Julien.DOS.REIS.fr.pdf)
+<br/>
 <!--
 **DRJulien/DRJulien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
