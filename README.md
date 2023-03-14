@@ -1,7 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 Find my resume below
 
 [Resume (fr).pdf]()
+
+### Projects
+Here are some projects I've been involved in
+
+
 <br/>
 <!--
 **DRJulien/DRJulien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
