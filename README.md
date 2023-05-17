@@ -1,6 +1,10 @@
 ## Hi there 👋
-Find my resume below
+Find my resume below:
 
+In english:
+[Resume_DOSREIS_JULIEN(eng).pdf](https://github.com/DRJulien/DRJulien/files/11498156/Resume_DOSREIS_JULIEN.eng.pdf)
+
+In french:
 [CV_DOSREIS_JULIEN(fr).pdf](https://github.com/DRJulien/DRJulien/files/11245240/CV_DOSREIS_JULIEN.fr.pdf)
 
 ### Projects Folder
