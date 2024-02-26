@@ -3,9 +3,6 @@
 ### Projects Folder
 On this folder you'll find some projects I've been involved in.
 
-### DataCamp Folder
-On this folder you'll find Datacamp completed courses certifications.
-This folder will be updated frequently.
 
 <br/>
 <!--
